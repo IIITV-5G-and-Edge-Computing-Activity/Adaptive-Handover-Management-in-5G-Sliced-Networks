@@ -2,20 +2,43 @@
 
 This repository implements an algorithm for optimizing slice handovers in 5G networks. The algorithm aims to ensure seamless connectivity, optimize resource allocation, and maintain Quality of Service (QoS) during inter-slice handovers.
 
----
+## Instalation
 
-## Installation
+To set up the project locally, follow these steps:
 
-Follow the steps below to set up and run the project:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/IIITV-5G-and-Edge-Computing-Activity/Adaptive-Handover-Management-in-5G-Sliced-Networks
-   cd Adaptive-Handover-Management-in-5G-Sliced-Networks
-   
-2. To run the simulation and evaluate the algorithm's performance, execute the following command:
-   ```bash
-   python main.py
+### Clone the Repository:
 
 
+https://github.com/IIITV-5G-and-Edge-Computing-Activity/Adaptive-Handover-Management-in-5G-Sliced-Networks.git
 
+### Navigate to the Project Directory:
+
+cd Adaptive-Handover-Management-in-5G-Sliced-Networks
+
+
+### Install Dependencies:
+Make sure to have Python and the required libraries installed. You can install dependencies using:
+
+pip install -r requirements.txt
+
+### Execute the main script:
+
+python main.py
+
+## Features
+1. Adaptive Handover Mechanism: Implements algorithms that adaptively manage handovers based on network conditions.
+2. Network Slicing: Supports multiple virtual networks on a single physical infrastructure, optimizing resource utilization.
+3. Performance Evaluation: Includes metrics and tools for evaluating the performance of handover management strategies.
+
+
+## Contributors
+
+1) Kedar Deshmukh (202151047)
+2) Sudhanshu Bhale (202151164)
+3) Gajanan Admulwad (202151009)
+4) Shravani kaware (202152316)
+5) Atharva Kale (202151069)
+
+## Mentor
+
+Dr. Bhupendra Kumar
