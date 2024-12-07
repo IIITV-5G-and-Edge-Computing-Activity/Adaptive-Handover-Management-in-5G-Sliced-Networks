@@ -8,23 +8,19 @@ To set up the project locally, follow these steps:
 
 ### Clone the Repository:
 
-
+```bash
 https://github.com/IIITV-5G-and-Edge-Computing-Activity/Adaptive-Handover-Management-in-5G-Sliced-Networks.git
-
+```
 ### Navigate to the Project Directory:
 
+```bash
 cd Adaptive-Handover-Management-in-5G-Sliced-Networks
-
-
-### Install Dependencies:
-Make sure to have Python and the required libraries installed. You can install dependencies using:
-
-pip install -r requirements.txt
+```
 
 ### Execute the main script:
-
+```bash
 python main.py
-
+```
 ## Features
 1. Adaptive Handover Mechanism: Implements algorithms that adaptively manage handovers based on network conditions.
 2. Network Slicing: Supports multiple virtual networks on a single physical infrastructure, optimizing resource utilization.
